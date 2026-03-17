@@ -1,0 +1,26 @@
+name: HunterGame
+main: comgogogo.MyPlugin
+version: 0.23.01
+author:  RJJ
+website: bhttps://space.bilibili.com/84453463?spm_id_from=333.1007.0.0
+api-version: 1.21.8
+commands:
+  hunter:
+    description: 猎人游戏核心命令
+    usage: /<command> [create/join/leave/start/delete/list] [参数]
+    aliases: [hg]
+  hghelp:
+    description: 猎人游戏帮助命令
+    usage: /<command>
+    aliases: [hg help]
+  ggbo:
+    description: 发起本阵营投降投票
+    usage: /<command>
+    aliases: []
+  fh:
+    description: 消耗钻石复活指定幸存者
+    usage: /fh <玩家名>
+permissions:
+  huntergame.admin:
+    description: 猎人游戏管理员权限
+    default: op
