@@ -3,7 +3,9 @@
 
 一款轻量、可配置、开箱即用的 Minecraft 猎人游戏插件，适用于 Paper 1.21.8 服务器，支持阵营分配、游戏控制、胜利判定、自定义配置文件。
 
-Paper：https://papermc.io/
+**Paper：https://papermc.io/**
+
+**完全不懂的小白看这里：/target/test-1.0-SNAPSHOT.jar 提供直接可以使用的插件**
 
 **本插件是配合AI开发的游戏插件，作者能力有限仅供娱乐！**
 
