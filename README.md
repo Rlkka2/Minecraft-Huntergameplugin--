@@ -96,8 +96,7 @@ PlayerDeathListener.java
 ## 📦 安装方法
 - 将插件 jar 放入服务器 `plugins` 目录
 - 启动服务器，自动生成配置文件
--  按需修改 `config.yml`
-- 使用指令 `/hunter` 开始游戏
+- 使用指令 `/hg help` 认识插件用法
 
 ---
 
