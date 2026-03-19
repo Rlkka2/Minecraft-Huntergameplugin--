@@ -5,6 +5,8 @@
 
 **Paper：https://papermc.io/**
 
+**Paper：https://fill-ui.papermc.io/projects/paper/version/1.21.8**
+
 **完全不懂的小白看这里：/target/test-1.0-SNAPSHOT.jar 提供直接可以使用的插件**
 
 **本插件是配合AI开发的游戏插件，作者能力有限仅供娱乐！**
