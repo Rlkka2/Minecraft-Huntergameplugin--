@@ -158,3 +158,7 @@ GameRoom.java 309-314
 - 编译命令：
 ```bash
 mvn clean package
+
+## 📄 License
+
+MIT © 2026
